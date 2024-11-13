@@ -10,3 +10,15 @@
 P.S. 当时的chatGPT还不太成熟，我们的报告基本都是手码出来的，在此特别感谢 yyf 同学的细心和支持。
 
 P.P.S. 这两位同学后来走向了不同的方向，这也是我们唯一的一次合作，非常感谢！！
+
+## English Version
+## Computer Course Design Project, Summer School for Freshmen, August 2023
+For detailed project information, please refer to the Report_English.pdf
+
+This is my first relatively comprehensive project development. The project architecture, specific implementation, and other aspects are quite immature, and the report is also rather hasty. Nevertheless, it is still a very memorable experience.
+
+Within 3 weeks, we started from scratch to achieve model training and evaluation based on TensorFlow; forward propagation of convolutional neural networks in C++; construction of the Qt frontend and UI design; and various project proposals, mid-term reports, and final presentations.
+
+Additionally, due to the teacher's requirement to use C++, we trained a model on CIFAR100 using Python's TensorFlow platform and then imported the training parameters into a txt file. The forward propagation of the CNN was implemented in C++. This seems a bit silly, doesn't it?
+
+P.S. I would like to express my sincere gratitude to yyf for her carefulness and support throughout this project.
