@@ -13,7 +13,7 @@ P.P.S. 这两位同学后来走向了不同的方向，这也是我们唯一的�
 
 ## English Version
 ## Computer Course Design Project, Summer School for Freshmen, August 2023
-For detailed project information, please refer to the Report_English.pdf
+For detailed project information, please refer to **Report_English.pdf**
 
 This is my first relatively comprehensive project development. The project architecture, specific implementation, and other aspects are quite immature, and the report is also rather naive. Nevertheless, it is still a very memorable experience.
 
